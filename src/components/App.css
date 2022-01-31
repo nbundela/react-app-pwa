@@ -6,6 +6,16 @@
   height: 40vmin;
   pointer-events: none;
 }
+/* //navbar */
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #fff;
+  
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
